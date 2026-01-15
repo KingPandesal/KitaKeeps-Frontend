@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Press the KitaKeeps image below to visit the website
 <a href="https://sixxcodes.github.io/KitaKeeps"><img src="public/assets/images/docu/social-preview-1.png" alt="KitaKeeps Social Preview"/></a>
 
